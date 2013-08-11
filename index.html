@@ -1,0 +1,21 @@
+<!doctype html>
+<html ng-app="voteCal">
+  <head>
+    <script src="js/angular-1.1.5.js"></script>
+    <script src="main.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/votecal.css" rel="stylesheet">
+  </head>
+  <body ng-controller="VoteCalCtrl">
+    <div ng-repeat="halfHour in calRange()">
+      <span>{{halfHour | time}}</span>
+    </div>
+    <div class="container">
+      <div class="column col-2" ng-repeat="column in calender">
+        <div class="event" ng-repeat="event in column" ng-class-odd="'dark'">
+          <span>{{ event.title }}</span><br>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

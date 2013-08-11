@@ -1,0 +1,20 @@
+.container {
+  position: absolute;
+  top: 0px;
+  left: 80px;
+}
+
+.column {
+  padding: 0px;
+}
+
+.event {
+  border-color: gray;
+  border-style: solid;
+  padding: 1px;
+  margin8: 1px;
+}
+8
+.event.dark {
+  background: #DFD;
+}

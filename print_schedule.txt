@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>PAX Prime - Seattle, WA Aug 30-Sep 2, 2013</title>
+	
+	<link rel="stylesheet" media="all" type="text/css" href="http://prime.paxsite.com//assets/css/print.css" />
+	<script type="text/javascript">
+		window.print();
+	</script>
+</head>
+<body>
+		<div class="day">
+	
+	<h2>Friday 8/30 - Hours 10am-12am</h2>
+	
+	<h3>Friday 10:30am</h3>
+<ul>
+<li class='event'><p><strong>HouseRuled! Making games fun for YOUR Group</strong> : <strong class='upper'>[Raven Theatre]</strong> 10:30am - 11:30am</p></li>
+<li class='event'><p><strong>Story time with Peter Molyneux</strong> : <strong class='upper'>[Main Theatre]</strong> 10:30am - 11:30am</p></li>
+<li class='event'><p><strong>RTSGuru.com - The Future of MOBA Games</strong> : <strong class='upper'>[Serpent Theatre]</strong> 10:30am - 11:30am</p></li>
+</ul>
+<h3>Friday 11:00am</h3>
+<ul>
+<li class='event'><p><strong>The Evolution of a Game Developer</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 11:00am - 12:00pm</p></li>
+<li class='event'><p><strong>What&#8217;s Your Gamer Type?</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 11:00am - 12:00pm</p></li>
+</ul>
+<h3>Friday 11:30am</h3>
+<ul>
+<li class='event'><p><strong>As Beta As You Wanna Be</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 11:30am - 12:30pm</p></li>
+<li class='event'><p><strong>Does Story Matter in Video Games?</strong> : <strong class='upper'>[Kraken Theatre]</strong> 11:30am - 12:30pm</p></li>
+<li class='event'><p><strong>Penny Arcade Q&amp;A</strong> : <strong class='upper'>[Main Theatre]</strong> 11:30am - 12:30pm</p></li>
+</ul>
+<h3>Friday 12:00pm</h3>
+<ul>
+<li class='event'><p><strong>Everybody Wins</strong> : <strong class='upper'>[Raven Theatre]</strong> 12:00pm - 1:00pm</p></li>
+<li class='event'><p><strong>Extra Credits: Diversity - a film viewing and Q&amp;A Session</strong> : <strong class='upper'>[Serpent Theatre]</strong> 12:00pm - 1:00pm</p></li>
+</ul>
+<h3>Friday 12:30pm</h3>
+<ul>
+<li class='event'><p><strong>From Obsession to Profession: How to Forge the Career You Want in the Videogame Industry</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 12:30pm - 1:30pm</p></li>
+<li class='event'><p><strong>You&#8217;re Never Off the Record</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 12:30pm - 1:30pm</p></li>
+</ul>
+<h3>Friday 1:00pm</h3>
+<ul>
+<li class='event'><p><strong>Achieving Gender Diversity in Gaming: OK, Now What?</strong> : <strong class='upper'>[Kraken Theatre]</strong> 1:00pm - 2:00pm</p></li>
+<li class='event'><p><strong>The Making of: Nintendo NES Games</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 1:00pm - 2:00pm</p></li>
+<li class='event'><p><strong>Rooster Teeth</strong> : <strong class='upper'>[Main Theatre]</strong> 1:00pm - 2:00pm</p></li>
+</ul>
+<h3>Friday 1:30pm</h3>
+<ul>
+<li class='event'><p><strong>Omegathon Round 1: Zombie Dice</strong> : <strong class='upper'>[Raven Theatre]</strong> 1:30pm - 2:30pm</p></li>
+<li class='event'><p><strong>MMORPG.com - The Future of Online Games</strong> : <strong class='upper'>[Serpent Theatre]</strong> 1:30pm - 2:30pm</p></li>
+</ul>
+<h3>Friday 2:00pm</h3>
+<ul>
+<li class='event'><p><strong>Get Hired in Video Games Marketing</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 2:00pm - 3:00pm</p></li>
+<li class='event'><p><strong>Pitching The Last of Us</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 2:00pm - 3:00pm</p></li>
+</ul>
+<h3>Friday 2:30pm</h3>
+<ul>
+<li class='event'><p><strong>D&amp;D Digital, Past, Present, and Future</strong> : <strong class='upper'>[Kraken Theatre]</strong> 2:30pm - 3:30pm</p></li>
+<li class='event'><p><strong>Rise of the Indies</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 2:30pm - 3:30pm</p></li>
+</ul>
+<h3>Friday 3:00pm</h3>
+<ul>
+<li class='event'><p><strong>Gamers Give Back: The Child&#8217;s Play Panel!</strong> : <strong class='upper'>[Serpent Theatre]</strong> 3:00pm - 4:00pm</p></li>
+<li class='event'><p><strong>Why Role-Playing Games Matter</strong> : <strong class='upper'>[Raven Theatre]</strong> 3:00pm - 4:00pm</p></li>
+</ul>
+<h3>Friday 3:30pm</h3>
+<ul>
+<li class='event'><p><strong>An Evening with Patrick Rothfuss</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 3:30pm - 4:30pm</p></li>
+<li class='event'><p><strong>Doing Retro Right</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 3:30pm - 4:30pm</p></li>
+</ul>
+<h3>Friday 4:00pm</h3>
+<ul>
+<li class='event'><p><strong>A Byte of Seattle: The Rise of Seattle&#8217;s Gaming Industry</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 4:00pm - 5:00pm</p></li>
+</ul>
+<h3>Friday 4:30pm</h3>
+<ul>
+<li class='event'><p><strong>Come Ye, Scalawags, for a tale of pirates, plunder and Assassin’s Creed IV Black Flag</strong> : <strong class='upper'>[Main Theatre]</strong> 4:30pm - 5:30pm</p></li>
+<li class='event'><p><strong>Top Women Game Characters of All Time</strong> : <strong class='upper'>[Serpent Theatre]</strong> 4:30pm - 5:30pm</p></li>
+<li class='event'><p><strong>All Your Words Are Belong To Us: How Localization Works (And Why It Sometimes Doesn&#8217;t)</strong> : <strong class='upper'>[Raven Theatre]</strong> 4:30pm - 5:30pm</p></li>
+</ul>
+<h3>Friday 5:00pm</h3>
+<ul>
+<li class='event'><p><strong>Mega64 Ten Flawless Years Panel</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 5:00pm - 6:00pm</p></li>
+<li class='event'><p><strong>The Community Management Juggling Act</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 5:00pm - 6:00pm</p></li>
+</ul>
+<h3>Friday 5:30pm</h3>
+<ul>
+<li class='event'><p><strong>Community Organizing: Creating Local Groups for Dev or Play!</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 5:30pm - 6:30pm</p></li>
+</ul>
+<h3>Friday 6:00pm</h3>
+<ul>
+<li class='event'><p><strong>Gays in Love (With Their RPG&#8217;s)</strong> : <strong class='upper'>[Raven Theatre]</strong> 6:00pm - 7:00pm</p></li>
+<li class='event'><p><strong>The LoadingReadyRun Panel!</strong> : <strong class='upper'>[Serpent Theatre]</strong> 6:00pm - 7:00pm</p></li>
+</ul>
+<h3>Friday 6:30pm</h3>
+<ul>
+<li class='event'><p><strong>GameTrailers Originals Power Hour: Bosman, Beer, and Game Myths</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 6:30pm - 7:30pm</p></li>
+<li class='event'><p><strong>The PC Gaming World Congress</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 6:30pm - 7:30pm</p></li>
+</ul>
+<h3>Friday 7:00pm</h3>
+<ul>
+<li class='event'><p><strong>Game Show Night: Blankety Blank</strong> : <strong class='upper'>[Kraken Theatre]</strong> 7:00pm - 8:00pm</p></li>
+<li class='event'><p><strong>Hey Vasquez, you ever been mistaken for a man? A discussion of military servicewomen in Video Games</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 7:00pm - 8:00pm</p></li>
+</ul>
+<h3>Friday 7:30pm</h3>
+<ul>
+<li class='event'><p><strong>Family Game Night Twist: Make Your Own Video Game</strong> : <strong class='upper'>[Raven Theatre]</strong> 7:30pm - 8:30pm</p></li>
+<li class='event'><p><strong>Omegathon Round 2: Battleblock Theater</strong> : <strong class='upper'>[Serpent Theatre]</strong> 7:30pm - 8:30pm</p></li>
+</ul>
+<h3>Friday 8:00pm</h3>
+<ul>
+<li class='event'><p><strong>Arabian Fights: Super Nintendo vs Sega Genesis</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 8:00pm - 9:00pm</p></li>
+<li class='event'><p><strong>Game Show Night: Jeopardy!</strong> : <strong class='upper'>[Kraken Theatre]</strong> 8:00pm - 9:00pm</p></li>
+<li class='event'><p><strong>The PAX 10 Panel: Part 1</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 8:00pm - 9:00pm</p></li>
+</ul>
+<h3>Friday 8:30pm</h3>
+<ul>
+<li class='event'><p><strong>Two Way Street: Developers Communicating with Players</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 8:30pm - 9:30pm</p></li>
+<li class='event'><p><strong>&#9835; Friday Night Concerts</strong> : <strong class='upper'>[Main Theatre]</strong> 8:30pm - 12:00am</p></li>
+</ul>
+<h3>Friday 9:00pm</h3>
+<ul>
+<li class='event'><p><strong>Game Show Night: Family Feud!</strong> : <strong class='upper'>[Kraken Theatre]</strong> 9:00pm - 10:00pm</p></li>
+<li class='event'><p><strong>The GameStation Podcast Live: Topical Gaming Discussion and Q&amp;A</strong> : <strong class='upper'>[Serpent Theatre]</strong> 9:00pm - 10:00pm</p></li>
+<li class='event'><p><strong>Video Games and Hollywood</strong> : <strong class='upper'>[Raven Theatre]</strong> 9:00pm - 10:00pm</p></li>
+</ul>
+<h3>Friday 9:30pm</h3>
+<ul>
+<li class='event'><p><strong>Improv Initiative Strikes Again!</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 9:30pm - 10:30pm</p></li>
+<li class='event'><p><strong>An Evening with Scott Kurtz</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 9:30pm - 10:30pm</p></li>
+</ul>
+<h3>Friday 10:00pm</h3>
+<ul>
+<li class='event'><p><strong>Breaking Into Gaming:&nbsp; Vampires Do It Better</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 10:00pm - 11:00pm</p></li>
+</ul>
+</div>
+<div class="day">
+	
+	<h2>Saturday 8/31 - Hours 10am-12am</h2>
+	
+	<h3>Saturday 10:00am</h3>
+<ul>
+<li class='event'><p><strong>Living the Dream: The Tales, Trials, and Tribulations of  the Geek Shop Keep</strong> : <strong class='upper'>[Raven Theatre]</strong> 10:00am - 11:00am</p></li>
+<li class='event'><p><strong>Teaming Up for Indie Game Dev</strong> : <strong class='upper'>[Serpent Theatre]</strong> 10:00am - 11:00am</p></li>
+</ul>
+<h3>Saturday 10:30am</h3>
+<ul>
+<li class='event'><p><strong>Digital Dealing: The Up and Coming World of Digital CCGs</strong> : <strong class='upper'>[Kraken Theatre]</strong> 10:30am - 11:30am</p></li>
+<li class='event'><p><strong>Everything We Know Is Sexist. Now What?</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 10:30am - 11:30am</p></li>
+<li class='event'><p><strong>Penny Arcade Make-a-Strip!</strong> : <strong class='upper'>[Main Theatre]</strong> 10:30am - 12:00pm</p></li>
+</ul>
+<h3>Saturday 11:00am</h3>
+<ul>
+<li class='event'><p><strong>Fun Facts &amp; the Dirty Truth: Your Video Game Debates Put To Rest</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 11:00am - 12:00pm</p></li>
+<li class='event'><p><strong>The Official Harmonix Podcast: LIVE!</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 11:00am - 12:00pm</p></li>
+</ul>
+<h3>Saturday 11:30am</h3>
+<ul>
+<li class='event'><p><strong>Creating &amp; Building Inclusive Communities in Tabletop/Board Gaming</strong> : <strong class='upper'>[Raven Theatre]</strong> 11:30am - 12:30pm</p></li>
+<li class='event'><p><strong>Raising the Next Generation of Geeks</strong> : <strong class='upper'>[Serpent Theatre]</strong> 11:30am - 12:30pm</p></li>
+</ul>
+<h3>Saturday 12:00pm</h3>
+<ul>
+<li class='event'><p><strong>Grifball: The Sport of the Future is Here Today!</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 12:00pm - 1:00pm</p></li>
+<li class='event'><p><strong>Wildstar: Journey to Nexus</strong> : <strong class='upper'>[Kraken Theatre]</strong> 12:00pm - 1:00pm</p></li>
+</ul>
+<h3>Saturday 12:30pm</h3>
+<ul>
+<li class='event'><p><strong>Official PlayStation Blogcast Live!</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 12:30pm - 1:30pm</p></li>
+<li class='event'><p><strong>Videogames in Medicine</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 12:30pm - 1:30pm</p></li>
+</ul>
+<h3>Saturday 1:00pm</h3>
+<ul>
+<li class='event'><p><strong>10 Questions with Supergiant Games: Presented by the Academy of Interactive Arts &amp; Sciences</strong> : <strong class='upper'>[Serpent Theatre]</strong> 1:00pm - 2:00pm</p></li>
+<li class='event'><p><strong>Omegathon Round 3: Geometry Wars 2</strong> : <strong class='upper'>[Raven Theatre]</strong> 1:00pm - 2:00pm</p></li>
+</ul>
+<h3>Saturday 1:30pm</h3>
+<ul>
+<li class='event'><p><strong>Tools To Keep Play Balanced!</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 1:30pm - 2:30pm</p></li>
+</ul>
+<h3>Saturday 2:00pm</h3>
+<ul>
+<li class='event'><p><strong>I LOVE YOU AND HAVE YOUR GAME TATTOOED ON MY LEG: Brand Personalization vs. Advertisement</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 2:00pm - 3:00pm</p></li>
+<li class='event'><p><strong>Kickstarter LIVE!</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 2:00pm - 3:00pm</p></li>
+</ul>
+<h3>Saturday 2:30pm</h3>
+<ul>
+<li class='event'><p><strong>From Tabletop to Digital: Crafting Stronger Interactive Narratives</strong> : <strong class='upper'>[Raven Theatre]</strong> 2:30pm - 3:30pm</p></li>
+<li class='event'><p><strong>Turning Geek Passion Into Profit</strong> : <strong class='upper'>[Serpent Theatre]</strong> 2:30pm - 3:30pm</p></li>
+</ul>
+<h3>Saturday 3:00pm</h3>
+<ul>
+<li class='event'><p><strong>Firaxis Games Mega Panel</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 3:00pm - 4:00pm</p></li>
+<li class='event'><p><strong>Gaming or Gambling?&nbsp; Scientific and Legal Perspectives on Today&#8217;s Games</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 3:00pm - 4:00pm</p></li>
+<li class='event'><p><strong>Lords of the Fallen, Enemy Front, Alien Rage - Exclusive gameplay revealed!</strong> : <strong class='upper'>[Kraken Theatre]</strong> 3:00pm - 4:00pm</p></li>
+</ul>
+<h3>Saturday 3:30pm</h3>
+<ul>
+<li class='event'><p><strong>Acquisitions Incorporated</strong> : <strong class='upper'>[Main Theatre]</strong> 3:30pm - 5:30pm</p></li>
+<li class='event'><p><strong>Designing, Shaping, and Examining Online Player Behavior</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 3:30pm - 4:30pm</p></li>
+</ul>
+<h3>Saturday 4:00pm</h3>
+<ul>
+<li class='event'><p><strong>Crafting Minecraft: The Future of Gaming is Open Source Culture</strong> : <strong class='upper'>[Raven Theatre]</strong> 4:00pm - 5:00pm</p></li>
+<li class='event'><p><strong>Major Nelson Radio!</strong> : <strong class='upper'>[Serpent Theatre]</strong> 4:00pm - 5:00pm</p></li>
+</ul>
+<h3>Saturday 4:30pm</h3>
+<ul>
+<li class='event'><p><strong>Keiji Inafune: From 8-bit to Next-Gen, and Beyond</strong> : <strong class='upper'>[Kraken Theatre]</strong> 4:30pm - 5:30pm</p></li>
+<li class='event'><p><strong>THE SPACE INVADERS: In Search of Lost Time</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 4:30pm - 6:30pm</p></li>
+</ul>
+<h3>Saturday 5:00pm</h3>
+<ul>
+<li class='event'><p><strong>Community Management: Herding Cats and Keeping it Clean</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 5:00pm - 6:00pm</p></li>
+</ul>
+<h3>Saturday 5:30pm</h3>
+<ul>
+<li class='event'><p><strong>Press XY Presents: Right Before Your Eyes: Transitioning Within a Game Community</strong> : <strong class='upper'>[Raven Theatre]</strong> 5:30pm - 6:30pm</p></li>
+<li class='event'><p><strong>All You Zombies: Why the Genre Still Holds Our Attention.</strong> : <strong class='upper'>[Serpent Theatre]</strong> 5:30pm - 6:30pm</p></li>
+</ul>
+<h3>Saturday 6:00pm</h3>
+<ul>
+<li class='event'><p><strong>SmashMuck Champions Design-A-Champ!&nbsp; Do our Jobs!</strong> : <strong class='upper'>[Kraken Theatre]</strong> 6:00pm - 7:00pm</p></li>
+</ul>
+<h3>Saturday 6:30pm</h3>
+<ul>
+<li class='event'><p><strong>Chainsawsuit With Friends!</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 6:30pm - 7:30pm</p></li>
+<li class='event'><p><strong>The PAX 10 Panel: Part 2</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 6:30pm - 7:30pm</p></li>
+</ul>
+<h3>Saturday 7:00pm</h3>
+<ul>
+<li class='event'><p><strong>Magic the Gathering: Standard Format</strong> : <strong class='upper'>[Tabletop]</strong> 7:00pm - 10:00pm</p></li>
+<li class='event'><p><strong>Movin&#8217; On Up - Managing Your Career in the Game Industry</strong> : <strong class='upper'>[Raven Theatre]</strong> 7:00pm - 8:00pm</p></li>
+<li class='event'><p><strong>Omegathon Round 4: Jenga</strong> : <strong class='upper'>[Serpent Theatre]</strong> 7:00pm - 8:00pm</p></li>
+<li class='event'><p><strong>Serious Fun: Playing Games in Class Sounds Great&#8230;But Are They FUN?</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 7:00pm - 8:00pm</p></li>
+</ul>
+<h3>Saturday 7:30pm</h3>
+<ul>
+<li class='event'><p><strong>You Game Like A Girl: Tales of Trolls &amp; White Knights</strong> : <strong class='upper'>[Kraken Theatre]</strong> 7:30pm - 8:30pm</p></li>
+</ul>
+<h3>Saturday 8:00pm</h3>
+<ul>
+<li class='event'><p><strong>Magic the Gathering: 4-Pack Sealed</strong> : <strong class='upper'>[Tabletop]</strong> 8:00pm - 11:00pm</p></li>
+<li class='event'><p><strong>Playing Video Games is a Good Thing</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 8:00pm - 9:00pm</p></li>
+<li class='event'><p><strong>Master The Video Games: A Giant Bomb Dot Com Self-Help Seminar</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 8:00pm - 10:30pm</p></li>
+</ul>
+<h3>Saturday 8:30pm</h3>
+<ul>
+<li class='event'><p><strong>Glitch: Do you REALLY Wish Your Life Was Like A Video Game?</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 8:30pm - 10:30pm</p></li>
+<li class='event'><p><strong>Political Correctness in Gaming: Let&#8217;s Talk</strong> : <strong class='upper'>[Raven Theatre]</strong> 8:30pm - 9:30pm</p></li>
+<li class='event'><p><strong>The Question Block Videogame Trivia</strong> : <strong class='upper'>[Serpent Theatre]</strong> 8:30pm - 10:30pm</p></li>
+<li class='event'><p><strong>&#9835; Saturday Night Concerts</strong> : <strong class='upper'>[Main Theatre]</strong> 8:30pm - 12:00pm</p></li>
+</ul>
+<h3>Saturday 9:00pm</h3>
+<ul>
+<li class='event'><p><strong>Retrogame Roadshow: The Game Show!</strong> : <strong class='upper'>[Kraken Theatre]</strong> 9:00pm - 10:00pm</p></li>
+</ul>
+<h3>Saturday 9:30pm</h3>
+<ul>
+<li class='event'><p><strong>The Escapist Movie Night</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 9:30pm - 11:30pm</p></li>
+</ul>
+<h3>Saturday 10:00pm</h3>
+<ul>
+<li class='event'><p><strong>AppJunkies Live: The Worst Apps Ever Made!</strong> : <strong class='upper'>[Raven Theatre]</strong> 10:00pm - 11:00pm</p></li>
+</ul>
+</div>
+<div class="day">
+	
+	<h2>Sunday 9/1 - Hours 10am-12am</h2>
+	
+	<h3>Sunday 10:00am</h3>
+<ul>
+<li class='event'><p><strong>Behind The Scenes With The Indie Megabooth</strong> : <strong class='upper'>[Serpent Theatre]</strong> 10:00am - 11:00am</p></li>
+<li class='event'><p><strong>CaseModders: Making Computers &amp; Consoles Cooler.</strong> : <strong class='upper'>[Raven Theatre]</strong> 10:00am - 11:00am</p></li>
+</ul>
+<h3>Sunday 10:30am</h3>
+<ul>
+<li class='event'><p><strong>Are You Afraid? A Guide to Survival Horror</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 10:30am - 11:30am</p></li>
+<li class='event'><p><strong>Is Storytelling the Most Important Element in Games?</strong> : <strong class='upper'>[Kraken Theatre]</strong> 10:30am - 11:30am</p></li>
+<li class='event'><p><strong>Penny Arcade Q&amp;A 2</strong> : <strong class='upper'>[Main Theatre]</strong> 10:30am - 12:00pm</p></li>
+</ul>
+<h3>Sunday 11:00am</h3>
+<ul>
+<li class='event'><p><strong>Reimagining Fantasia: An Interactive Adventure in Color, Sound and Motion</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 11:00am - 12:00pm</p></li>
+<li class='event'><p><strong>Six Second Game Pitch: Elevator Pitches in the Age of Vine</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 11:00am - 12:00pm</p></li>
+</ul>
+<h3>Sunday 11:30am</h3>
+<ul>
+<li class='event'><p><strong>Designing Personal Games that Matter</strong> : <strong class='upper'>[Raven Theatre]</strong> 11:30am - 12:30pm</p></li>
+</ul>
+<h3>Sunday 12:00pm</h3>
+<ul>
+<li class='event'><p><strong>Pitch Your Game Idea</strong> : <strong class='upper'>[Kraken Theatre]</strong> 12:00pm - 1:00pm</p></li>
+<li class='event'><p><strong>Queers in Gaming: Gamer vs Gaymer</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 12:00pm - 1:00pm</p></li>
+<li class='event'><p><strong>Beat the Pros Live!</strong> : <strong class='upper'>[Serpent Theatre]</strong> 12:00pm - 2:00pm</p></li>
+</ul>
+<h3>Sunday 12:30pm</h3>
+<ul>
+<li class='event'><p><strong>Nik &amp; Dylan Crush Your Dreams 3, Presented by The Final Gentlemen</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 12:30pm - 1:30pm</p></li>
+<li class='event'><p><strong>It&#8217;s Dangerous to Go Alone: The Take This Panel</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 12:30pm - 1:30pm</p></li>
+</ul>
+<h3>Sunday 1:00pm</h3>
+<ul>
+<li class='event'><p><strong>Modernizing Fantasy RPGs</strong> : <strong class='upper'>[Raven Theatre]</strong> 1:00pm - 2:00pm</p></li>
+</ul>
+<h3>Sunday 1:30pm</h3>
+<ul>
+<li class='event'><p><strong>Magic: The Gathering World Building Panel</strong> : <strong class='upper'>[Kraken Theatre]</strong> 1:30pm - 2:30pm</p></li>
+<li class='event'><p><strong>OC ReMix: Video Game Music Community of Sheer Awesomeness</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 1:30pm - 2:30pm</p></li>
+</ul>
+<h3>Sunday 2:00pm</h3>
+<ul>
+<li class='event'><p><strong>The HUGE Evolution of Games Blogging</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 2:00pm - 3:00pm</p></li>
+<li class='event'><p><strong>Women &amp; Tabletop Gaming</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 2:00pm - 3:00pm</p></li>
+</ul>
+<h3>Sunday 2:30pm</h3>
+<ul>
+<li class='event'><p><strong>DISCLAIMER: These thoughts and opinions are my own&#8230; or are they?</strong> : <strong class='upper'>[Serpent Theatre]</strong> 2:30pm - 3:30pm</p></li>
+</ul>
+<h3>Sunday 3:00pm</h3>
+<ul>
+<li class='event'><p><strong>Customer Support: We Come In Peace!</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 3:00pm - 4:00pm</p></li>
+<li class='event'><p><strong>Open Development at Double Fine: More Transparency for Better Games</strong> : <strong class='upper'>[Kraken Theatre]</strong> 3:00pm - 4:00pm</p></li>
+</ul>
+<h3>Sunday 3:30pm</h3>
+<ul>
+<li class='event'><p><strong>The Good, The Bad, and The Moogles: Final Fantasy Funtime Geekout</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 3:30pm - 4:30pm</p></li>
+<li class='event'><p><strong>The Strip Search Reunion Superpanel</strong> : <strong class='upper'>[Main Theatre]</strong> 3:30pm - 5:30pm</p></li>
+<li class='event'><p><strong>Web Video for Gamers: How To Make Your Live Streaming &amp; On Demand Video Content Awesome</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 3:30pm - 4:30pm</p></li>
+</ul>
+<h3>Sunday 4:00pm</h3>
+<ul>
+<li class='event'><p><strong>Gamers 3: Hands of Fate Premiere!</strong> : <strong class='upper'>[Serpent Theatre]</strong> 4:00pm - 6:00pm</p></li>
+<li class='event'><p><strong>Magic the Gathering: Standard Format Tournament</strong> : <strong class='upper'>[Tabletop]</strong> 4:00pm - 7:00pm</p></li>
+<li class='event'><p><strong>You Can Make Games Too!</strong> : <strong class='upper'>[Raven Theatre]</strong> 4:00pm - 5:00pm</p></li>
+</ul>
+<h3>Sunday 4:30pm</h3>
+<ul>
+<li class='event'><p><strong>Co Op: How Players are becoming Co-Designers</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 4:30pm - 5:30pm</p></li>
+<li class='event'><p><strong>Twitch: Then. Now. FOR-EV-ER.</strong> : <strong class='upper'>[Kraken Theatre]</strong> 4:30pm - 5:30pm</p></li>
+</ul>
+<h3>Sunday 5:00pm</h3>
+<ul>
+<li class='event'><p><strong>Kickstarter Trials, Tribulations, and Triumphs</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 5:00pm - 6:00pm</p></li>
+</ul>
+<h3>Sunday 5:30pm</h3>
+<ul>
+<li class='event'><p><strong>Nerdcore Hip Hop?&nbsp; Wasn&#8217;t There A Documentary On Netflix About That?</strong> : <strong class='upper'>[Raven Theatre]</strong> 5:30pm - 6:30pm</p></li>
+</ul>
+<h3>Sunday 6:00pm</h3>
+<ul>
+<li class='event'><p><strong>Voice Acting 101</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 6:00pm - 7:00pm</p></li>
+</ul>
+<h3>Sunday 6:30pm</h3>
+<ul>
+<li class='event'><p><strong>Three Old Guys Play Zork</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 6:30pm - 7:30pm</p></li>
+<li class='event'><p><strong>Video Game Music Trivia</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 6:30pm - 7:30pm</p></li>
+</ul>
+<h3>Sunday 7:00pm</h3>
+<ul>
+<li class='event'><p><strong>Awesome Video Game Data</strong> : <strong class='upper'>[Raven Theatre]</strong> 7:00pm - 8:00pm</p></li>
+<li class='event'><p><strong>Extra Credits Traveling Menagerie Presents: EXTRA CREDITS AND FRIENDS</strong> : <strong class='upper'>[Serpent Theatre]</strong> 7:00pm - 8:00pm</p></li>
+</ul>
+<h3>Sunday 7:30pm</h3>
+<ul>
+<li class='event'><p><strong>Foreplay: Romance in Games</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 7:30pm - 8:30pm</p></li>
+</ul>
+<h3>Sunday 8:00pm</h3>
+<ul>
+<li class='event'><p><strong>How to Play Pinball</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 8:00pm - 9:00pm</p></li>
+<li class='event'><p><strong>Omegathon Round 5: Peggle 2</strong> : <strong class='upper'>[Main Theatre]</strong> 8:00pm - 8:30pm</p></li>
+<li class='event'><p><strong>The Rev3 Games Panel of Adventure and Wonder</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 8:00pm - 9:00pm</p></li>
+</ul>
+<h3>Sunday 8:30pm</h3>
+<ul>
+<li class='event'><p><strong>For the Love of Crafting II - The Wrath of Yarn</strong> : <strong class='upper'>[Raven Theatre]</strong> 8:30pm - 9:30pm</p></li>
+<li class='event'><p><strong>How Games are Art, and Why You Should Give a Damn</strong> : <strong class='upper'>[Serpent Theatre]</strong> 8:30pm - 9:30pm</p></li>
+<li class='event'><p><strong>&#9835; Sunday Night Concerts</strong> : <strong class='upper'>[Main Theatre]</strong> 8:30pm - 12:00pm</p></li>
+</ul>
+<h3>Sunday 9:00pm</h3>
+<ul>
+<li class='event'><p><strong>Gaming the PTA</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 9:00pm - 10:00pm</p></li>
+</ul>
+<h3>Sunday 9:30pm</h3>
+<ul>
+<li class='event'><p><strong>Fallout: Nuka Break Complete Series Screening and Q&amp;A</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 9:30pm - 11:00pm</p></li>
+<li class='event'><p><strong>Cards Against Humanity</strong> : <strong class='upper'>[Kraken Theatre]</strong> 9:30pm - 10:30pm</p></li>
+</ul>
+<h3>Sunday 10:00pm</h3>
+<ul>
+<li class='event'><p><strong>Late Night Dub Fight</strong> : <strong class='upper'>[Serpent Theatre]</strong> 10:00pm - 11:00pm</p></li>
+<li class='event'><p><strong>The Worst of the Worst: Hacking, Exploitation, and Abuse within Online Games</strong> : <strong class='upper'>[Raven Theatre]</strong> 10:00pm - 11:00pm</p></li>
+</ul>
+</div>
+<div class="day">
+	
+	<h2>Monday 9/2 - Hours 10am-7pm</h2>
+	
+	<h3>Monday 10:00am</h3>
+<ul>
+<li class='event'><p><strong>From One Geek to Another - Gamer Etiquette</strong> : <strong class='upper'>[Serpent Theatre]</strong> 10:00am - 11:00am</p></li>
+<li class='event'><p><strong>It&#8217;s Not Too Dangerous To Go Alone! - Finding The Bravery To Do It Yourself</strong> : <strong class='upper'>[Raven Theatre]</strong> 10:00am - 11:00am</p></li>
+</ul>
+<h3>Monday 10:30am</h3>
+<ul>
+<li class='event'><p><strong>Testers vs The Game: The Life of a Game Tester</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 10:30am - 11:30am</p></li>
+<li class='event'><p><strong>Shooters and Shooters: Exploring the Connection between Video Games and Mass Shootings</strong> : <strong class='upper'>[Kraken Theatre]</strong> 10:30am - 11:30am</p></li>
+</ul>
+<h3>Monday 11:00am</h3>
+<ul>
+<li class='event'><p><strong>Magic the Gathering: Blast from the Past Sealed Deck.</strong> : <strong class='upper'>[Tabletop]</strong> 11:00am - 2:00pm</p></li>
+<li class='event'><p><strong>The Benefits of Players Writing Thier Own Stories In Games</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 11:00am - 12:00pm</p></li>
+<li class='event'><p><strong>The GVAC Voice Acting Audition Derby</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 11:00am - 12:00pm</p></li>
+</ul>
+<h3>Monday 11:30am</h3>
+<ul>
+<li class='event'><p><strong>IGN Game Scoop! Presents 5 Wild Next-Gen Predictions</strong> : <strong class='upper'>[Serpent Theatre]</strong> 11:30am - 12:30pm</p></li>
+<li class='event'><p><strong>Pranking PAX: When Landos and Potatoes Collide</strong> : <strong class='upper'>[Raven Theatre]</strong> 11:30am - 12:30pm</p></li>
+</ul>
+<h3>Monday 12:00pm</h3>
+<ul>
+<li class='event'><p><strong>Bad Games</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 12:00pm - 1:00pm</p></li>
+<li class='event'><p><strong>Hey Ash Whatcha Playin&#8217;: The Revenge</strong> : <strong class='upper'>[Kraken Theatre]</strong> 12:00pm - 1:00pm</p></li>
+<li class='event'><p><strong>Gabe &amp; Tycho, as interviewed by Robert Khoo</strong> : <strong class='upper'>[Main Theatre]</strong> 12:00pm - 1:00pm</p></li>
+</ul>
+<h3>Monday 12:30pm</h3>
+<ul>
+<li class='event'><p><strong>Unlock Your Creative Potential: 7 Steps to Becoming a Game Designer</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 12:30pm - 1:30pm</p></li>
+</ul>
+<h3>Monday 1:00pm</h3>
+<ul>
+<li class='event'><p><strong>PC Gamer presents: CATFANTASTIC LIVE: A Wholly Insane PC Gaming Trivia Show</strong> : <strong class='upper'>[Serpent Theatre]</strong> 1:00pm - 2:00pm</p></li>
+<li class='event'><p><strong>The Care and Feeding of Your Boardgame Group</strong> : <strong class='upper'>[Raven Theatre]</strong> 1:00pm - 2:00pm</p></li>
+</ul>
+<h3>Monday 1:30pm</h3>
+<ul>
+<li class='event'><p><strong>Three Decades of Video Game Music</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 1:30pm - 2:30pm</p></li>
+<li class='event'><p><strong>Spelunky Video Armageddon</strong> : <strong class='upper'>[Kraken Theatre]</strong> 1:30pm - 2:30pm</p></li>
+</ul>
+<h3>Monday 2:00pm</h3>
+<ul>
+<li class='event'><p><strong>Gender Diversity in Games: Where Are All The Believable Female Characters?</strong> : <strong class='upper'>[Pegasus Theatre]</strong> 2:00pm - 3:00pm</p></li>
+<li class='event'><p><strong>Playing Across Boundaries</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 2:00pm - 3:00pm</p></li>
+</ul>
+<h3>Monday 2:30pm</h3>
+<ul>
+<li class='event'><p><strong>The Art of the Table: GMing Beyond the Basics</strong> : <strong class='upper'>[Raven Theatre]</strong> 2:30pm - 3:30pm</p></li>
+<li class='event'><p><strong>Penny Arcade Report - On Parenting</strong> : <strong class='upper'>[Serpent Theatre]</strong> 2:30pm - 3:30pm</p></li>
+<li class='event'><p><strong>INSIDE GEARBOX SOFTWARE</strong> : <strong class='upper'>[Main Theatre]</strong> 2:30pm - 3:30pm</p></li>
+</ul>
+<h3>Monday 3:00pm</h3>
+<ul>
+<li class='event'><p><strong>+10 Publicity: Marketing and Promoting Your Indie Game</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 3:00pm - 4:00pm</p></li>
+<li class='event'><p><strong>The Destructoid.TV Panel: We tricked people into liking us, and you can too!</strong> : <strong class='upper'>[Kraken Theatre]</strong> 3:00pm - 4:00pm</p></li>
+</ul>
+<h3>Monday 3:30pm</h3>
+<ul>
+<li class='event'><p><strong>Veterans in Gaming:&nbsp; Embracing Common Ground</strong> : <strong class='upper'>[Unicorn Theatre]</strong> 3:30pm - 4:30pm</p></li>
+</ul>
+<h3>Monday 4:30pm</h3>
+<ul>
+<li class='event'><p><strong>CGW/GFW Radio &#8220;The Brodeo&#8221; Reunion #2: Even Eli Knows What That Means</strong> : <strong class='upper'>[Wolfman Theatre]</strong> 4:30pm - 5:30pm</p></li>
+<li class='event'><p><strong>The Brain Dump:&nbsp; Eight Developers Reveal the Dark Secrets of Game Development</strong> : <strong class='upper'>[Kraken Theatre]</strong> 4:30pm - 5:30pm</p></li>
+</ul>
+<h3>Monday 5:30pm</h3>
+<ul>
+<li class='event'><p><strong>Omegathon Final Round</strong> : <strong class='upper'>[Main Theatre]</strong> 5:30pm - 6:30pm</p></li>
+</ul>
+</div>
+</body>
+</html>
