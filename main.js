@@ -1,5 +1,5 @@
-angular.module('voteCal', [])
-  .controller("VoteCalCtrl", function ($scope) {
+angular.module('voteCal', ['ngResource'])
+  .controller("VoteCalCtrl", function ($scope, $resource) {
     function Event(title, start, length) {
       return {
         title: title,
@@ -9,7 +9,11 @@ angular.module('voteCal', [])
         score: 2,
       };
     }
+    var Events = $resource('/events.json');
 
+    $scope.events = Events.get({}, function() {
+      debugger;
+    })
     $scope.events = [
       Event("House Ruled!", 10.5),
       Event("Keynote", 10.5),
