@@ -1,0 +1,9 @@
+{
+  "name": "votecal",
+  "version": "0.1.0",
+  "author": "Jeff Gaskill <mistergaskill@gmail.com>",
+  "dependencies": {
+    "express": "*",
+    "request": "*",
+  }
+}
